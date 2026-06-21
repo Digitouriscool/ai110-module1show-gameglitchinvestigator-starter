@@ -54,7 +54,8 @@ Document at least 3 bugs you found. Add rows as needed.
 
 ## 4. What did you learn about Streamlit and state?
 
-- How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
+- How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit? 
+
   I would tell a friend that every time you interact with a Streamlit app by clicking a button, typing in an input, or changing a dropdown, Streamlit reruns the entire Python script from top to bottom. 
 
 ---
