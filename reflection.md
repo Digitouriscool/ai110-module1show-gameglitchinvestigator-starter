@@ -55,12 +55,18 @@ Document at least 3 bugs you found. Add rows as needed.
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
+  I would tell a friend that every time you interact with a Streamlit app by clicking a button, typing in an input, or changing a dropdown, Streamlit reruns the entire Python script from top to bottom. 
 
 ---
 
 ## 5. Looking ahead: your developer habits
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
-  - This could be a testing habit, a prompting strategy, or a way you used Git.
+
+  Adding comments above AI fixes is a habit that I plan on upholding. In the event the AI introduces another bug, I know where to go to fix the issue.
+
 - What is one thing you would do differently next time you work with AI on a coding task?
+  I would ask the AI to explain each bug before applying the fix, rather than just accepting the code change.
+
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+  AI generated code can be very good. However if you're not specific in your prompts, it can make wide assumptions and add additional features not requested. It requires a critical review of the code.
